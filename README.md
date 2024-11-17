@@ -1,7 +1,8 @@
 <H3> Name </H3> Elamaran S E
 <H3>Register No.</H3> 212222230036
-<H3> Experiment 1<H3>
-<H1> ALIGN=CENTER> Implementation of Bayesian Networks</H1>
+<H3> Experiment 1 <H3>
+    
+# Implementation of Bayesian Networks
 ## Aim :
     To create a bayesian Network for the given dataset in Python
 ## Algorithm:
